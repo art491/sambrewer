@@ -47,54 +47,12 @@ geolocate.on('geolocate', function(event) {
 
 
 let data = [
-    {
-        location: [-122.667882, 45.450602],
-        content: 'Arnold Gallery: The Hub'
-    },
-    {
-        location: [-122.666323,45.450363],
-        content: 'Sam'
-    },
-     {
-        location: [-122.6687,45.4523],
-        content: 'Orion'
-    },
+
      {
         location: [-122.667, 45.4508],
-        content: 'Sara'
+        content: 'around here'
     },
-    {
-        location: [-122.6682078, 45.4514583],
-        content: 'Charlotte'
-    },
-     {
-        location: [-122.669108, 45.451028],
-        content: 'Library: Isabel, Ellery, Justin, Ashley, Dylan'
-    },
-    {
-        location: [-122.6688562, 45.4493269],
-        content: 'Frank'
-    },
-    {
-        location: [ -122.6724, 45.4470],
-        content: 'Georgia'
-    },
-    {
-        location: [-122.6700595, 45.4501421],
-        content: 'Joanne'
-    },
-    {
-        location: [ -122.6694, 45.45125],
-        content: 'Emma'
-    },
-    {
-        location: [ -122.6681166, 45.4505723],
-        content: 'Sophie'
-    },
-    {
-        location: [-122.668409, 45.450095],
-        content: 'Zifan'
-    }
+
 ]
 
 data.forEach(function(d) {
