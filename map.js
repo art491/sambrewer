@@ -49,8 +49,8 @@ geolocate.on('geolocate', function(event) {
 let data = [
 
      {
-        location: [-122.667, 45.4508],
-        content: 'around here'
+        location: [-122.66861, 45.450905],
+        content: 'Im here'
     },
 
 ]
